@@ -1,0 +1,1 @@
+<p><?php echo _tab();?>用于测试O_O</p>
